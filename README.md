@@ -10,7 +10,7 @@
 -Check `Product2New.page` and `Product2Extension.cls`
 
 ## Create the Test Data Factory
-- Check `testDataFactory.cls`
+- Check  `OrderTests` and `testDataFactory.cls`
 
 ## Increase test coverage with unit tests
 - Check `Product2Tests.cls`
