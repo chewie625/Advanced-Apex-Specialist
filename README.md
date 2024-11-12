@@ -1,13 +1,16 @@
 # Advanced-Apex-Specialist
 
 ## Update the codebase to use best practices
-- Check Constants.cls
+- Check `Constants.cls`
 
 ## Update the order trigger
+- Check `orderTrigger.cls` and `OrderHelper.cls`
 
 ## Update the new product Visualforce page
+-Check `Product2New.page` and `Product2Extension.cls`
 
 ## Create the Test Data Factory
+- Check `testDataFactory.cls`
 
 ## Increase test coverage with unit tests
 
