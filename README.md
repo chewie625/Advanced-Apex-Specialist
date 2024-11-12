@@ -13,6 +13,7 @@
 - Check `testDataFactory.cls`
 
 ## Increase test coverage with unit tests
+- Check `Product2Tests.cls`
 
 ## Automate internal announcements when inventory is low
 
