@@ -16,6 +16,7 @@
 - Check `Product2Tests.cls`
 
 ## Automate internal announcements when inventory is low
+- Check `AnnouncementQueueable`, `Product2Trigger` and `Product2Helper`
 
 ## Complete the controller extension for a Visualforce page to enable rapid order entry
 
